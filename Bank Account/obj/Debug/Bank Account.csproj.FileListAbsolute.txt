@@ -1,0 +1,6 @@
+c:\users\opilane\documents\visual studio 2017\Projects\Bank Account\Bank Account\bin\Debug\Bank Account.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\Bank Account\Bank Account\bin\Debug\Bank Account.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Bank Account\Bank Account\bin\Debug\Bank Account.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\Bank Account\Bank Account\obj\Debug\Bank Account.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\Bank Account\Bank Account\obj\Debug\Bank Account.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Bank Account\Bank Account\obj\Debug\Bank Account.pdb
